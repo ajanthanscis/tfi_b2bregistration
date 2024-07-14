@@ -42,6 +42,7 @@
 						<div class="slide"><h1 class="slide-number">5</h1></div>
 					</div>
 				</div>
+				
 				<div id="registration_content" class="registration_content">
 					<h3>{if !empty($personal_heading)}{$personal_heading|escape:'htmlall':'UTF-8'}{/if}</h3><hr>
 					{if $enable_prefix}
